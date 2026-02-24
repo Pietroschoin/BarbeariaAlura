@@ -49,3 +49,12 @@ p {
 em strong {
     color: #FF0000;
 }
+
+
+.titulo-principal{
+    padding-left: 20px;
+}
+
+.titulo-centralizado{
+    text-align: center;
+}
